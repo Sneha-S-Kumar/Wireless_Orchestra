@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/CMakeFiles/bootloader
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/CMakeFiles/bootloader.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/CMakeFiles/bootloader-complete.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/devuser/5_Linux/ESP/ESP_WiFiClient/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
